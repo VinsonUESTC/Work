@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-lang3-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/commons-net-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/fluent-hc-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/httpclient-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/httpclient-cache-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/httpclient-win-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/httpcore-4.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/httpmime-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/jackson-all-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/jna-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/jna-platform-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/morph-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/opencsv-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/slf4j-nop-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/sqljdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/spring-web-5.0.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
