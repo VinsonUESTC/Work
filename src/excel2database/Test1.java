@@ -39,11 +39,11 @@ public class Test1 {
 				+ "[10kmmax] bit,"
 				+ "match bit,"
 				+ "primary key(date,BSCnumber,BTSnumber,Cellnumber))");
-		/*ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站4月全网.csv");
+		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站4月全网.csv");
 		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站5月全网.csv");
 		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站5月-6月全网.csv");
-		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站5月全网(2).csv");*/
-		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站全网.csv");
+		ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站5月全网(2).csv");
+		//ReadExcel.loadFile(tempconn,"H:\\documents\\分析工作\\创新课题\\直放站巡检\\直放站全网.csv");
 		SQLUtils.confirmdata(tempconn,"confirm","2018-4-1","2018-4-30",500,15);
 		SQLUtils.porceed(tempconn,"2018-5-1","2018-6-6");
 		SQLUtils.CloseConn(tempconn);
